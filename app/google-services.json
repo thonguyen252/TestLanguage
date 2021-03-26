@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859671399662",
+    "project_id": "testlocalization-b2305",
+    "storage_bucket": "testlocalization-b2305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859671399662:android:5edf0f004611b5302177ff",
+        "android_client_info": {
+          "package_name": "test.jobhopin.com.testlanguage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859671399662-f6vhkbi9aeehsc6qj5jnlp3jmh8b8ocd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf3RktUehkHkZgd95xDBfN6r63pW8-P8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859671399662-f6vhkbi9aeehsc6qj5jnlp3jmh8b8ocd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

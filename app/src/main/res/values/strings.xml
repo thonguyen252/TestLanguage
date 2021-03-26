@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestLanguage</string>
+    <string name="content">This is English content</string>
+</resources>
